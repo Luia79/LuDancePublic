@@ -40,7 +40,7 @@ public class ldSystem {
            
         } else {
             JOptionPane.showMessageDialog(null, "No conectado a la BD", 
-                    "Error de conección", JOptionPane.ERROR_MESSAGE);
+                    "Error en la conección", JOptionPane.ERROR_MESSAGE);
         }
 
            

@@ -39,7 +39,7 @@ public class ldSystem {
             new VLogin().setVisible(true);
            
         } else {
-            JOptionPane.showMessageDialog(null, "NO conectado a la BD", 
+            JOptionPane.showMessageDialog(null, "No conectado a la BD", 
                     "Error de conección", JOptionPane.ERROR_MESSAGE);
         }
 
